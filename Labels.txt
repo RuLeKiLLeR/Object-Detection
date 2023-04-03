@@ -1,0 +1,80 @@
+trees/Persons
+person
+Plains/Houses
+boat
+boat
+aeroplane
+bus
+train
+boat
+truck
+traffic light
+fire hydrant
+stop sign
+River
+Plains
+boat
+cat
+dog
+Plains
+sheep
+Plains
+River
+bear
+zebra
+giraffe
+backpack
+umbrella
+handbag
+tie
+suitcase
+frisbee
+skis
+snowboar
+sports ball
+kite
+baseball bat
+baseball glove
+House
+surfboard
+tennis racket
+bottle
+House
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+chair
+sofa
+pottedplant
+bed
+diningtable
+toilet
+tvmonitor
+Plains
+mouse
+remote
+keyboard
+cell phone
+Plains
+oven
+toaster
+sink
+refrigerator
+book
+clock
+vase
+scissors
+teddy bear
+hair drier
